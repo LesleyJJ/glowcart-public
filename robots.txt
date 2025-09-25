@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://glowcart.example
+Sitemap: https://glowcart.example/sitemap.xml
